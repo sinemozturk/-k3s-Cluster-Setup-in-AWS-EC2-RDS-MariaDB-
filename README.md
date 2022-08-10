@@ -529,7 +529,7 @@ show databases;
 use k3s;
 ```
 
-- Output -> it is conected the this particular k3s database
+- Output -> it connected to the this particular k3s database
 
 ```bash
 ...

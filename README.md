@@ -439,7 +439,7 @@ curl -sfL https://get.k3s.io | sh
 - Also you can use the last 3 bash command in just one command see the following bash command;
 
 ```bash
-curl -sfL <https://get.k3s.io> | K3S_URL=https://private-Ip-of-master-ec2:6443> K3S_TOKEN="paste here the token" sh -
+curl -sfL <https://get.k3s.io> | K3S_URL=https://private-Ip-of-master-ec2:6443 K3S_TOKEN="paste here the token" sh -
 ```
 
 - check the k3s agent status on `worker node`

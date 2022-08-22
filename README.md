@@ -1,6 +1,6 @@
 # k3s Cluster Setup in AWS EC2 + RDS (MariaDB)
 
-## High-Availability K3s Server with an External DB
+## K3s Server with an External DB
 
 - K3s Architecture with a High-availability Server
 
